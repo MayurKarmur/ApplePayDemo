@@ -65,5 +65,5 @@ Usage
 Output
 ----------------------------------------------------
 
-![ApplePayDemo - Animated gif demo](ApplePayDemo/ApplePay.gif)
+![ApplePayDemo - Animated gif demo](ApplePayDemo/ApplePayDemo/ApplePay.gif)
 
